@@ -1,0 +1,28 @@
+a{
+    font-size:20pt;
+    text-decoration: none;
+    color:white;
+    font-family:verdana;
+
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+table{
+    background-color: black;
+    color: white;
+    font-family: verdana;
+    font-size: small;
+    text-align: center;
+}
+.links{
+    font-size: medium;
+    font-weight: bold;
+}
+
+        body{
+    color:white;
+    font-family: verdana;
+    background-attachment: fixed;
+}
